@@ -80,5 +80,5 @@ qa({"query": "What does the LinkR package do?"})
 
 ## 👩‍💻 Author
 
-DataForGood
+DataForGood -
 Chloé Petridis  (contributor)
